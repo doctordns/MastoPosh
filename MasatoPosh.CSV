@@ -1,4 +1,5 @@
-﻿~,MastodonAddress,ShowBoosts,NotifyNewPost,Language
+﻿Name,MastodonAddress,ShowBoosts,NotifyNewPost,Language
 Thomas Lee,DoctorDNS@Masto.AI,Y,Y,"EN, EN-GB"
 Chrissy LeMarie,cl@tech.lgbt,Y,Y,EN
-ChiefPosh,xeo@home.social,Y,Y,"EN/DE"
+ChiefPosh,xeo@home.social,Y,Y,"EN,DE"
+Falk Heiland,falkheiland@fosstodon.org,Y,Y,"EN, DE"
