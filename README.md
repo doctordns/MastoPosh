@@ -4,7 +4,7 @@
 
 Mastodon is a federated social media platform with server instances world wide.
 With the shenanigans over at the Bird Place, Mastodon is seeing a huge grown in users, including PowerShell users.
-One can just follow the #PowerSHell hash tag to get a lot of great content - and follow the posters of more interesting content.
+One can just follow the #PowerShell hash tag to get a lot of great content - and follow the posters of more interesting content.
 For folks that are new to #Mastodon, the list here is a start6ing point.
 
 Automation of Mastodon setup is another longer term goal.
