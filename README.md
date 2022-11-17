@@ -7,7 +7,8 @@ A list of PowerShell folks on Mastodon
 Mastodon is a federated social media platform with server instances world wide.
 With the shenanigans over at the Bird Place, Mastodon is seeing a huge grown in users, including PowerShell users.
 
-## this repo
+## This repository
+
 This repo contains a file ``mastoposh.csv`` which is a comma separated value file of PowerShell users on Mastodon.
 
 ## Contents of mastoposh.csv
