@@ -12,11 +12,6 @@ I'd like to be able to offer some scripts that enable you to follow the folks on
 
 ## This repository
 
-<<<<<<< HEAD
-=======
-## This repository
-
->>>>>>> 7548f825fcff9e9c966fd7e4040130a8c8d62898
 This repo contains a file ``mastoposh.csv`` which is a comma separated value file of PowerShell users on Mastodon.
 
 ## Contents of mastoposh.csv
