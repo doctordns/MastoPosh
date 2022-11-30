@@ -21,7 +21,7 @@ The file is in CSV format and I maintain it using Excel
 
 The CSV 5 fields (currently):
 * `Name` - your name
-* `MastonAddress` - your mastodon address, sans the initial "@". Excel complains about it and I've not found a work around - yet.
+* `MastonAddress` - your mastodon address
 * `ShowBoosts` - Whether you want to have boosts shown (4.0 and later) - Y or N
 * `NotifyNewPost` - Whether you want to see new posts (4.0 and later) -  Y or N
 * `Language` - what languages are you happy with - a comma separated list of language names (eg EN, EN-GB, etc;)
